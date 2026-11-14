@@ -39,7 +39,7 @@ How to Run the Project :
 
 1. Clone the repository:
 
-git clone https://github.com/52331000-ux/Event-Management-System.git
+git clone https://github.com/52331000-ux/event-management-system.git
 
 2. Open the project folder:
 
