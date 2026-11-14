@@ -74,7 +74,3 @@ Future Improvements :
 Author :
 
 Bashar Bakkour
-
-Project Purpose :
-
-This project was created for educational purposes.
