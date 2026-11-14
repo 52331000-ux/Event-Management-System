@@ -1,16 +1,80 @@
-# React + Vite
+                                            Eventify – Event Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description :
 
-Currently, two official plugins are available:
+Eventify is a website that helps users explore and learn about different events. Users can view event information and contact the website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features :
 
-## React Compiler
+* Home Page
+* About Page
+* Services Page
+* Contact Page
+* Event Details Page
+* Responsive design for mobile and desktop
+* Easy navigation between pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technologies Used :
 
-## Expanding the ESLint configuration
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Bootstrap 5
+* React Router DOM
+* React Icons
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Structure :
+
+* components: Contains Navbar and Footer.
+* pages: Contains the website pages.
+* data: Contains event information.
+* App.jsx: Main application and routes.
+* App.css: Main website styles.
+* index.css: Global styles.
+* main.jsx: Starts the React application.
+
+How to Run the Project :
+
+1. Clone the repository:
+
+git clone https://github.com/52331000-ux/Event-Management-System.git
+
+2. Open the project folder:
+
+cd Event-Management-System
+
+3. Install the packages:
+
+npm install
+
+4. Start the project:
+
+npm run dev
+
+5. Open the local link in your browser.
+
+Event Pages :
+
+The project contains different events with their names, dates, locations, prices, and descriptions.
+
+Event information is stored in:
+
+src/data/events.js
+
+Future Improvements :
+
+* User login and registration.
+* Database connection.
+* Online event booking.
+* Online payment.
+* Admin dashboard.
+
+Author :
+
+Bashar Bakkour
+
+Project Purpose :
+
+This project was created for educational purposes.
